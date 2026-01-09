@@ -1,14 +1,14 @@
 # Fongwah Desktop UHF RFID Reader SDK (C#)
 
-![UHF Reader Image][(https://fongwahrfid.net/wp-content/uploads/2025/09/U6-CU-91-768x768.jpg)or (https://fongwahrfid.net/wp-content/uploads/2026/01/UHF-RFID-Reader-Desktop-U1-CU-71.png)]
+![UHF Reader Image](https://fongwahrfid.net/wp-content/uploads/2025/09/U6-CU-91-768x768.jpg)
 
 ## Overview
 Official C# SDK and sample application for **Fongwah Desktop UHF RFID Readers**. 
 This project provides a complete Visual Studio solution to help developers integrate RFID functionalities into Windows applications.
 
 ## Compatible Hardware
-* **U6-CU-91** (Desktop Writer/Reader)
-* **U1-CU-71** (Portable Mini Reader)
+* **U6-CU-91** (Desktop Writer/Reader) (https://fongwahrfid.net/rfid-reader-module/uhf-rfid-reader-u6-cu-91/)
+* **U1-CU-71** (Desktop Writer/Reader) (https://fongwahrfid.net/rfid-reader-module/uhf-rfid-reader-u1-cu-71/)
 
 ## Features
 * ✅ **Inventory Mode**: Small number bulk tag reading (Anti-collision).
